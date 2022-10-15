@@ -1,0 +1,5 @@
+Cuando empecé con este evaluable no manejaba demasiado bien ni java ni eclipse, con el tiempo
+he ido aprendiendo más y cuando estaba el proyecto bastante avanzado me di cuenta
+que la estructuración del mismo no era la idónea.
+Siento esto, es mi primer proyecto con java no seas demasiado duro conmigo.
+La próxima vez pondré todos los métodos juntos con su documentación.

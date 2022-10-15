@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Modelo"},{"p":"<Unnamed>","l":"VentanaCopiar"},{"p":"<Unnamed>","l":"VentanaEliminar"},{"p":"<Unnamed>","l":"VentanaRenombrar"},{"p":"<Unnamed>","l":"Vista"}];updateSearchResults();
